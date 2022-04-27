@@ -8,7 +8,7 @@ I am an architect who became interested in technology and software development w
 
 *   🌍  I'm based in Manila, Philippines
 *   🖥️  See my portfolio at [IAmRowee](http://www.iamrowee.com)
-*   ✉️  You can contact me at [hello@iamrowee.com](mailto:hello@iamrowee.com)
+*   ✉️  You can contact me at [hello@iamrowee.com](mailto:roweeapor13@gmail.com)
 *   🚀  I'm currently working on [My personal project](http://www.arkiinside.com)
 *   🧠  I'm learning ReactJS, NextJS, React Native, Firebase, Tailwind CSS, Realm, MongoDB, Typescript, and Python
 *   🤝  I'm open to collaborating on startups, or other projects with business opportunities
