@@ -7,10 +7,10 @@ I am a Self-taught Web and Mobile App Developer
 I am an architect who became interested in technology and software development which leads me to learn programming in 2021. From the day I decided to learn how to build applications, I explore software architecture to understand its fundamental needs. Now, I am focusing on frontend and mobile app development to launch and build my ideas with the help of firebase as a backend technology.
 
 *   🌍  I'm based in Manila, Philippines
-*   🖥️  See my portfolio at [IAmRowee](http://www.iamrowee.com)
-*   ✉️  You can contact me at [hello@iamrowee.com](mailto:roweeapor13@gmail.com)
+*   🖥️  See my portfolio at [ArchitechRowee](http://www.architechrowee.com)
+*   ✉️  You can contact me at [hello@architechrowee.com](mailto:roweeapor13@gmail.com)
 *   🚀  I'm currently working on [My personal project](http://www.arkiinside.com)
-*   🧠  I'm learning ReactJS, NextJS, React Native, Firebase, Tailwind CSS, Realm, MongoDB, Typescript, and Python
+*   🧠  I'm learning ReactJS, React Native, Firebase, Tailwind CSS, Realm, MongoDB, Typescript, and Python
 *   🤝  I'm open to collaborating on startups, or other projects with business opportunities
 *   ⚡  I am interested in meeting people with similar interest as mine
 
