@@ -1,10 +1,10 @@
 Hi 👋 My name is Rowee
 ======================
 
-I teach myself how to code. Well, I have Udemy courses definitely
+I teach myself how to code. Well, I have definitely taken Udemy courses.
 ------------------------------
 
-I am an architect who became interested in technology and software development which leads me to learn programming in 2021. From the day I decided to learn how to build applications, I explore software architecture to understand its fundamental needs. Now, I am focusing on frontend and mobile app development to launch and build my ideas with the help of firebase as a backend technology.
+I am an architect who became interested in technology and software development, which led me to learn programming in 2021. From the day I decided to learn how to build applications, I explored software architecture to understand its fundamental needs. Now, I am focusing on frontend and mobile app development to launch and build my ideas with the help of Firebase as a backend technology.
 
 *   🌍  I'm based in Manila, Philippines
 *   🖥️  See my portfolio at [ArchitechRowee](http://www.architechrowee.com)
