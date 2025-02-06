@@ -2,10 +2,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rowee
 =============================================================================================================================
 
+An architect turned software developer. My journey into tech began in 2021, driven by curiosity and a passion for building beyond physical spaces. As I transitioned into coding, I delved into software architecture to understand the foundations of well-structured applications.
+
+Now, I'm on a mission to bring my ideas to life, blending my architectural mindset with software development to create impactful digital solutions.
+
 Architect. Aspire to build amazing apps
 ----------------------------------------
-
-I am an architect who became interested in technology and software development, which led me to learn programming in 2021. From the day I decided to learn how to build applications, I explored software architecture to understand its fundamental needs. Now, I am focusing on frontend and mobile app development to launch and build my ideas.
 
 *   🌍  I'm based in Manila, Philippines
 *   🖥️  See my portfolio at [ArchitechRowee](https://architech-rowee.vercel.app)
