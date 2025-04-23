@@ -10,7 +10,7 @@ Architect. Aspire to build amazing apps
 ----------------------------------------
 
 *   🌍  I'm based in Manila, Philippines
-*   🖥️  See my portfolio at [ArchitechRowee](https://architech-rowee.vercel.app)
+*   🖥️  See my portfolio at [ArchitechRowee](https://architechrowee.com/)
 *   ✉️  You can contact me at [me@architechrowee.com](mailto:me@architechrowee.com)
 *   🚀  I started a company LoL 😆  - [Parrow Horrizon Studio](https://parrowhorrizonstudio.com)
 *   ❇️  I'm using NextJS, Typescript, TailwindCSS, and ThreeJS for frontend, React Native Expo for mobile, PostgreSQL for database, and NestJS for backend
