@@ -13,8 +13,7 @@ Architect. Aspire to build amazing apps
 *   🖥️  See my portfolio at [ArchitechRowee](https://architechrowee.com/)
 *   ✉️  You can contact me at [me@architechrowee.com](mailto:me@architechrowee.com)
 *   🚀  I started a company LoL 😆  - [Parrow Horrizon Studio](https://parrowhorrizonstudio.com)
-*   ❇️  I'm using NextJS, Typescript, TailwindCSS, and ThreeJS for frontend, React Native Expo for mobile, PostgreSQL for database, and NestJS for backend
-*   🧠  I'm learning Python for AI and for backend alternative using Django
+*   ❇️  I'm using NextJS, Typescript, TailwindCSS, and ThreeJS for frontend, React Native Expo for mobile, PostgreSQL for database, and NestJS, Python (FastAPI and Django) for backend
 *   🤝  I'm open to collaborating on Mobile Applications, SAAS, and/or projects for potential Startups
 *   ⚡  If I am not coding, I am doing 3D modelling using Blender or NomadSculpt for ipad. And if I am lazy, either watching netflix or playing games.
 
@@ -53,7 +52,9 @@ Architect. Aspire to build amazing apps
 ### Other Tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230170FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%23007A33.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
@@ -62,12 +63,9 @@ Architect. Aspire to build amazing apps
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<!-- 
 ### What I am learning
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230170FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
 
 <!-- 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
